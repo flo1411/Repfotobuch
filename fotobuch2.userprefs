@@ -1,0 +1,16 @@
+﻿<Properties StartupConfiguration="{8B850939-D5D4-4122-9B84-833D4F73361B}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Droid/Setup.cs">
+    <Files>
+      <File FileName="Droid/Fragments/ChooseTypeFragment.cs" Line="7" Column="1" />
+      <File FileName="Droid/Fragments/MenuFragment.cs" Line="11" Column="33" />
+      <File FileName="Droid/Setup.cs" Line="20" Column="10" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.ItemProperties.fotobuch2.Droid AndroidDesignerPreferredDevice="Nexus 4" PreferredExecutionTarget="Android.Nexus_4_API_21" />
+  <MultiItemStartupConfigurations />
+</Properties>

@@ -1,0 +1,55 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Paths>
+  <Jars></Jars>
+  <ResolvedResourceDirectories>
+    <ResolvedResourceDirectory>/Users/Flo/Projects/repositories/fotobuch2/Droid/obj/Debug/__library_projects__/MvvmCross.Binding.Droid/library_project_imports/res</ResolvedResourceDirectory>
+    <ResolvedResourceDirectory>/Users/Flo/Projects/repositories/fotobuch2/Droid/obj/Debug/__library_projects__/MvvmCross.Droid/library_project_imports/res</ResolvedResourceDirectory>
+    <ResolvedResourceDirectory>/Users/Flo/Projects/repositories/fotobuch2/Droid/obj/Debug/__library_projects__/MvvmCross.Droid.Shared/library_project_imports/res</ResolvedResourceDirectory>
+    <ResolvedResourceDirectory>/Users/Flo/Projects/repositories/fotobuch2/Droid/obj/Debug/__library_projects__/MvvmCross.Droid.Support.Core.UI/library_project_imports/res</ResolvedResourceDirectory>
+    <ResolvedResourceDirectory>/Users/Flo/Projects/repositories/fotobuch2/Droid/obj/Debug/__library_projects__/MvvmCross.Droid.Support.Fragment/library_project_imports/res</ResolvedResourceDirectory>
+    <ResolvedResourceDirectory>/Users/Flo/Projects/repositories/fotobuch2/Droid/obj/Debug/__library_projects__/MvvmCross.Droid.Support.V7.AppCompat/library_project_imports/res</ResolvedResourceDirectory>
+    <ResolvedResourceDirectory>/Users/Flo/Projects/repositories/fotobuch2/Droid/obj/Debug/__library_projects__/MvvmCross.Platform.Droid/library_project_imports/res</ResolvedResourceDirectory>
+    <ResolvedResourceDirectory>/Users/Flo/Projects/repositories/fotobuch2/Droid/obj/Debug/__library_projects__/MvvmCross.Plugins.DownloadCache.Droid/library_project_imports/res</ResolvedResourceDirectory>
+    <ResolvedResourceDirectory>/Users/Flo/Projects/repositories/fotobuch2/Droid/obj/Debug/__library_projects__/MvvmCross.Plugins.File.Droid/library_project_imports/res</ResolvedResourceDirectory>
+    <ResolvedResourceDirectory>/Users/Flo/Projects/repositories/fotobuch2/Droid/obj/Debug/__library_projects__/PCLStorage/library_project_imports/res</ResolvedResourceDirectory>
+    <ResolvedResourceDirectory>/Users/Flo/Projects/repositories/fotobuch2/Droid/obj/Debug/__library_projects__/Refractored.Controls.CircleImageView/library_project_imports/res</ResolvedResourceDirectory>
+    <ResolvedResourceDirectory>/Users/Flo/Projects/repositories/fotobuch2/Droid/obj/Debug/__library_projects__/Xamarin.Android.Support.Design/library_project_imports/res</ResolvedResourceDirectory>
+    <ResolvedResourceDirectory>/Users/Flo/Projects/repositories/fotobuch2/Droid/obj/Debug/__library_projects__/Xamarin.Android.Support.Transition/library_project_imports/res</ResolvedResourceDirectory>
+    <ResolvedResourceDirectory>/Users/Flo/Projects/repositories/fotobuch2/Droid/obj/Debug/__library_projects__/Xamarin.Android.Support.v7.AppCompat/library_project_imports/res</ResolvedResourceDirectory>
+    <ResolvedResourceDirectory>/Users/Flo/Projects/repositories/fotobuch2/Droid/obj/Debug/__library_projects__/Xamarin.Android.Support.v7.RecyclerView/library_project_imports/res</ResolvedResourceDirectory>
+    <ResolvedResourceDirectory>/Users/Flo/Projects/repositories/fotobuch2/Droid/obj/Debug/__library_projects__/PCLStorage/library_project_imports/res</ResolvedResourceDirectory>
+  </ResolvedResourceDirectories>
+  <ResolvedAssetDirectories>
+    <ResolvedAssetDirectory>obj/Debug/__library_projects__/MvvmCross.Binding.Droid/library_project_imports/assets</ResolvedAssetDirectory>
+    <ResolvedAssetDirectory>obj/Debug/__library_projects__/MvvmCross.Droid/library_project_imports/assets</ResolvedAssetDirectory>
+    <ResolvedAssetDirectory>obj/Debug/__library_projects__/MvvmCross.Droid.Shared/library_project_imports/assets</ResolvedAssetDirectory>
+    <ResolvedAssetDirectory>obj/Debug/__library_projects__/MvvmCross.Droid.Support.Core.UI/library_project_imports/assets</ResolvedAssetDirectory>
+    <ResolvedAssetDirectory>obj/Debug/__library_projects__/MvvmCross.Droid.Support.Fragment/library_project_imports/assets</ResolvedAssetDirectory>
+    <ResolvedAssetDirectory>obj/Debug/__library_projects__/MvvmCross.Droid.Support.V7.AppCompat/library_project_imports/assets</ResolvedAssetDirectory>
+    <ResolvedAssetDirectory>obj/Debug/__library_projects__/MvvmCross.Platform.Droid/library_project_imports/assets</ResolvedAssetDirectory>
+    <ResolvedAssetDirectory>obj/Debug/__library_projects__/MvvmCross.Plugins.DownloadCache.Droid/library_project_imports/assets</ResolvedAssetDirectory>
+    <ResolvedAssetDirectory>obj/Debug/__library_projects__/MvvmCross.Plugins.File.Droid/library_project_imports/assets</ResolvedAssetDirectory>
+    <ResolvedAssetDirectory>obj/Debug/__library_projects__/PCLStorage/library_project_imports/assets</ResolvedAssetDirectory>
+    <ResolvedAssetDirectory>obj/Debug/__library_projects__/Refractored.Controls.CircleImageView/library_project_imports/assets</ResolvedAssetDirectory>
+    <ResolvedAssetDirectory>obj/Debug/__library_projects__/PCLStorage/library_project_imports/assets</ResolvedAssetDirectory>
+  </ResolvedAssetDirectories>
+  <ResolvedEnvironmentFiles />
+  <ResolvedResourceDirectoryStamps>
+    <ResolvedResourceDirectoryStamp>/Users/Flo/Projects/repositories/fotobuch2/Droid/obj/Debug/__library_projects__/MvvmCross.Binding.Droid.stamp</ResolvedResourceDirectoryStamp>
+    <ResolvedResourceDirectoryStamp>/Users/Flo/Projects/repositories/fotobuch2/Droid/obj/Debug/__library_projects__/MvvmCross.Droid.stamp</ResolvedResourceDirectoryStamp>
+    <ResolvedResourceDirectoryStamp>/Users/Flo/Projects/repositories/fotobuch2/Droid/obj/Debug/__library_projects__/MvvmCross.Droid.Shared.stamp</ResolvedResourceDirectoryStamp>
+    <ResolvedResourceDirectoryStamp>/Users/Flo/Projects/repositories/fotobuch2/Droid/obj/Debug/__library_projects__/MvvmCross.Droid.Support.Core.UI.stamp</ResolvedResourceDirectoryStamp>
+    <ResolvedResourceDirectoryStamp>/Users/Flo/Projects/repositories/fotobuch2/Droid/obj/Debug/__library_projects__/MvvmCross.Droid.Support.Fragment.stamp</ResolvedResourceDirectoryStamp>
+    <ResolvedResourceDirectoryStamp>/Users/Flo/Projects/repositories/fotobuch2/Droid/obj/Debug/__library_projects__/MvvmCross.Droid.Support.V7.AppCompat.stamp</ResolvedResourceDirectoryStamp>
+    <ResolvedResourceDirectoryStamp>/Users/Flo/Projects/repositories/fotobuch2/Droid/obj/Debug/__library_projects__/MvvmCross.Platform.Droid.stamp</ResolvedResourceDirectoryStamp>
+    <ResolvedResourceDirectoryStamp>/Users/Flo/Projects/repositories/fotobuch2/Droid/obj/Debug/__library_projects__/MvvmCross.Plugins.DownloadCache.Droid.stamp</ResolvedResourceDirectoryStamp>
+    <ResolvedResourceDirectoryStamp>/Users/Flo/Projects/repositories/fotobuch2/Droid/obj/Debug/__library_projects__/MvvmCross.Plugins.File.Droid.stamp</ResolvedResourceDirectoryStamp>
+    <ResolvedResourceDirectoryStamp>/Users/Flo/Projects/repositories/fotobuch2/Droid/obj/Debug/__library_projects__/PCLStorage.stamp</ResolvedResourceDirectoryStamp>
+    <ResolvedResourceDirectoryStamp>/Users/Flo/Projects/repositories/fotobuch2/Droid/obj/Debug/__library_projects__/Refractored.Controls.CircleImageView.stamp</ResolvedResourceDirectoryStamp>
+    <ResolvedResourceDirectoryStamp>/Users/Flo/Projects/repositories/fotobuch2/Droid/obj/Debug/__library_projects__/Xamarin.Android.Support.Design.stamp</ResolvedResourceDirectoryStamp>
+    <ResolvedResourceDirectoryStamp>/Users/Flo/Projects/repositories/fotobuch2/Droid/obj/Debug/__library_projects__/Xamarin.Android.Support.Transition.stamp</ResolvedResourceDirectoryStamp>
+    <ResolvedResourceDirectoryStamp>/Users/Flo/Projects/repositories/fotobuch2/Droid/obj/Debug/__library_projects__/Xamarin.Android.Support.v7.AppCompat.stamp</ResolvedResourceDirectoryStamp>
+    <ResolvedResourceDirectoryStamp>/Users/Flo/Projects/repositories/fotobuch2/Droid/obj/Debug/__library_projects__/Xamarin.Android.Support.v7.RecyclerView.stamp</ResolvedResourceDirectoryStamp>
+    <ResolvedResourceDirectoryStamp>/Users/Flo/Projects/repositories/fotobuch2/Droid/obj/Debug/__library_projects__/PCLStorage.stamp</ResolvedResourceDirectoryStamp>
+  </ResolvedResourceDirectoryStamps>
+</Paths>
