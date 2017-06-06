@@ -6,6 +6,12 @@
     android:layout_height="match_parent">
     <include
         layout="@layout/toolbar_actionbar" />
+  <android.support.v7.widget.RecyclerView
+       android:id="@+id/choose_scenario_recyclerview"
+       android:layout_width="match_parent"
+       android:layout_height="wrap_content"
+   android:layout_marginTop="10dp"/>
+  <!--
     <Mvx.MvxGridView
         android:layout_width="match_parent"
         android:layout_height="match_parent"
@@ -13,5 +19,6 @@
         local:MvxItemTemplate="@layout/image_item"
         android:numColumns="3"
         android:verticalSpacing="0dp"
-        android:horizontalSpacing="0dp" />
+        android:horizontalSpacing="0dp"/>
+        -->
 </LinearLayout>

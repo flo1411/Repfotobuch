@@ -1,9 +1,5 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
-<manifest xmlns:android="http://schemas.android.com/apk/res/android" android:versionCode="1" android:versionName="1.0" package="com.actiworks.fotobuch">
+<manifest xmlns:android="http://schemas.android.com/apk/res/android" android:versionCode="1" android:versionName="1.0" package="com.flo.fotobuch" android:installLocation="auto">
 	<uses-sdk android:minSdkVersion="15" />
-	<application 
-		android:label="fotobuch"
-		android:hardwareAccelerated="false"
-		android:largeHeap="true">
-	</application>
+	<application android:label="fotobuch" android:hardwareAccelerated="false" android:largeHeap="true"></application>
 </manifest>
