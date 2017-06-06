@@ -1,12 +1,10 @@
 ﻿using Android.OS;
 using Android.Runtime;
 using Android.Views;
-using fotobuch2.Droid;
-using fotobuch2.Droid.Fragments;
 using fotobuch2.Core.ViewModels;
 using MvvmCross.Droid.Shared.Attributes;
 
-namespace Fragments
+namespace fotobuch2.Droid.Fragments
 {
     [MvxFragment(typeof(MainContainerViewModel), Resource.Id.content_frame)]
 	[Register("fotobuch2.droid.fragments.ChooseImagesFragment")]

@@ -7,6 +7,8 @@ using MvvmCross.Droid.Views;
 using MvvmCross.Platform.Droid.Platform;
 using MvvmCross.Platform;
 using fotobuch2.Core.Services;
+using fotobuch2.Droid.Services;
+using fotobuch2.Droid.Utils;
 
 namespace fotobuch2.Droid
 {

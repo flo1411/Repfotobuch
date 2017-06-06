@@ -1,7 +1,6 @@
-﻿using System;
-using MvvmCross.Core.ViewModels;
+﻿using MvvmCross.Core.ViewModels;
 
-namespace fotobuch2.Droid
+namespace fotobuch2.Droid.Utils
 {
 	public class MvxPanelPopToRootPresentationHint : MvxPresentationHint
 	{ 

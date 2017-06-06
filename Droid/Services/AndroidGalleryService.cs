@@ -1,11 +1,9 @@
-﻿using System;
-using System.Collections.Generic;
+﻿using System.Collections.Generic;
 using Android.App;
-using Android.Content;
 using Android.Provider;
 using fotobuch2.Core.Services;
 
-namespace fotobuch2.Droid
+namespace fotobuch2.Droid.Services
 {
     public class AndroidGalleryService : IGalleryService
     {

@@ -1,6 +1,5 @@
 ﻿using Android.OS;
 using Android.Views;
-using MvvmCross.Droid.Support.V4;
 using MvvmCross.Droid.Shared.Attributes;
 using Android.Runtime;
 using fotobuch2.Core.ViewModels;
