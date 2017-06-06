@@ -46,11 +46,12 @@ namespace fotobuch2.Droid.Adapter
         {
             var layout = _context.LayoutInflater.Inflate(Resource.Layout.image_item, null);
             return new ItemClickedViewHolder(layout, this);
-
         }
 
         public void ItemClicked(int position)
         {
+            var wrapper = ImageWrappers.ElementAt(position);
+            wrapper.AmountChoosen++;
         }
 
         public override int ItemCount => ImageWrappers.Count;

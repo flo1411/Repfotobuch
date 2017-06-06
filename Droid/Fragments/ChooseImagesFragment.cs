@@ -17,7 +17,6 @@ namespace fotobuch2.Droid.Fragments
 		{
 			ShowHamburgerMenu = true;
 
-
 			var view = base.OnCreateView(inflater, container, savedInstanceState);
 		    var recyclerView = view.FindViewById<RecyclerView>(Resource.Id.choose_scenario_recyclerview);
 		    var adapter = new ChooseImagesRecyclerViewAdapter(ViewModel, Activity);
@@ -27,7 +26,6 @@ namespace fotobuch2.Droid.Fragments
 
             recyclerView.SetAdapter(adapter);
             recyclerView.SetLayoutManager(new GridLayoutManager(Activity,3));
-            //this.CreateBinding(adapter).For("ImageWrappers").To(vm => vm.ImageWrappers);
 
             return view;
 		}

@@ -16,15 +16,18 @@
         android:maxWidth="100dp"
         android:layout_centerVertical="true"
         android:id="@+id/imageToChoose" />
-      <ImageView
+      <TextView
+            android:id="@+id/imageAmount"
             android:layout_width="30dp"
             android:layout_height="30dp"
-            android:src="@drawable/choosenCircle"
+            android:background="@drawable/choosenCircle"
             android:scaleType="centerCrop"
             android:layout_alignParentRight="true"
             android:layout_alignParentBottom="true"
-            android:paddingRight="5dp"
-            android:paddingBottom="5dp"
-            android:adjustViewBounds="true"/>
+            android:adjustViewBounds="true"
+            android:gravity="center"
+            android:textColor="#FFFFFF"
+            android:text="1"
+            android:textStyle="bold"/>
     </RelativeLayout>
 </LinearLayout>
