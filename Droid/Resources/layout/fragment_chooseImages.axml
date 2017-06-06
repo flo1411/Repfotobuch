@@ -10,15 +10,5 @@
        android:id="@+id/choose_scenario_recyclerview"
        android:layout_width="match_parent"
        android:layout_height="wrap_content"
-   android:layout_marginTop="10dp"/>
-  <!--
-    <Mvx.MvxGridView
-        android:layout_width="match_parent"
-        android:layout_height="match_parent"
-        local:MvxBind="ItemsSource ImageWrappers"
-        local:MvxItemTemplate="@layout/image_item"
-        android:numColumns="3"
-        android:verticalSpacing="0dp"
-        android:horizontalSpacing="0dp"/>
-        -->
+       android:layout_marginTop="10dp"/>
 </LinearLayout>

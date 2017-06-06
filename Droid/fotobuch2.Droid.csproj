@@ -193,7 +193,9 @@
     <AndroidResource Include="Resources\layout\fragment_chooseImages.axml" />
     <AndroidResource Include="Resources\layout\image_item.axml" />
   </ItemGroup>
-  <ItemGroup />
+  <ItemGroup>
+    <AndroidResource Include="Resources\drawable\choosenCircle.xml" />
+  </ItemGroup>
   <ItemGroup>
     <ProjectReference Include="..\fotobuch2.Core\fotobuch2.Core.csproj">
       <Project>{13EAA452-F9C6-42F4-B495-8839756F589C}</Project>

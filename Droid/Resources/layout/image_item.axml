@@ -6,11 +6,25 @@
     android:layout_height="100dp"
     android:minWidth="25px"
     android:minHeight="25px">
-    <Mvx.MvxImageView
+    <RelativeLayout
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content">
+      <Mvx.MvxImageView
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
         android:maxHeight="100dp"
         android:maxWidth="100dp"
         android:layout_centerVertical="true"
         android:id="@+id/imageToChoose" />
+      <ImageView
+            android:layout_width="30dp"
+            android:layout_height="30dp"
+            android:src="@drawable/choosenCircle"
+            android:scaleType="centerCrop"
+            android:layout_alignParentRight="true"
+            android:layout_alignParentBottom="true"
+            android:paddingRight="5dp"
+            android:paddingBottom="5dp"
+            android:adjustViewBounds="true"/>
+    </RelativeLayout>
 </LinearLayout>
